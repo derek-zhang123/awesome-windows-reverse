@@ -32,7 +32,7 @@
 - [HyperPlatform](https://github.com/tandasat/HyperPlatform)：基于 Intel VT-x 的虚拟机管理程序
 - [Kernel-Anit-Anit-Debug-Plugins](https://github.com/DragonQuestHero/Kernel-Anit-Anit-Debug-Plugins)：内核反反调试插件
 - [Kernel-Bridge](https://github.com/HoShiMin/Kernel-Bridge)：Windows内核驱动模板、开发框架和 内核模式 API 和包装器
-- [kHypervisor]((https://github.com/KelvinMsft/kHypervisor)：VMX嵌套虚拟化
+- [kHypervisor](https://github.com/KelvinMsft/kHypervisor)：VMX嵌套虚拟化
 - [ksm](https://github.com/asamy/ksm)：VMX嵌套虚拟化
 - [learn-kvm](https://github.com/yifengyou/learn-kvm)：QEMU KVM 
 - [r3epthook](https://github.com/bb33bb/r3epthook)：使用vt进行无痕hook，支持r3
