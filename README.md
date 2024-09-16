@@ -31,6 +31,20 @@
 - [HyperHide](https://github.com/Air14/HyperHide)：用于 x64dbg 的基于虚拟机管理程序的反调试插件
 - [HyperPlatform](https://github.com/tandasat/HyperPlatform)：基于 Intel VT-x 的虚拟机管理程序
 - [Kernel-Anit-Anit-Debug-Plugins](https://github.com/DragonQuestHero/Kernel-Anit-Anit-Debug-Plugins)：内核反反调试插件
+- [Kernel-Bridge]([https://github.com/DragonQuestHero/Kernel-Anit-Anit-Debug-Plugins](https://github.com/HoShiMin/Kernel-Bridge))：Windows内核驱动模板、开发框架和 内核模式 API 和包装器
+- [kHypervisor]([https://github.com/tandasat/HyperPlatform](https://github.com/KelvinMsft/kHypervisor))：VMX嵌套虚拟化
+- [ksm]([https://github.com/tandasat/HyperPlatform](https://github.com/asamy/ksm))：VMX嵌套虚拟化
+- [learn-kvm](https://github.com/yifengyou/learn-kvm)：QEMU KVM 
+- [r3epthook](https://github.com/bb33bb/r3epthook)：使用vt进行无痕hook，支持r3
+- [ShotHv](https://github.com/qq1045551070/ShotHv)：EPT 挂钩
+- [SimpleVisor](https://github.com/ionescu007/SimpleVisor)：简单VT框架
+- [syserdebugger](https://github.com/yanfengwu-syser/syserdebugger)：基于 Intel VT-x 的虚拟机管理程序
+- [VirtICE](https://github.com/KelvinMsft/VirtICE)：VMX嵌套虚拟化
+- [VivienneVMM](https://github.com/changeofpace/VivienneVMM)： Intel VT-x 虚拟机管理程序实现的隐形调试框架
+- [VoyagerWithEPT](https://github.com/samshine/VoyagerWithEPT)：Voyager 是一个旨在为 AMD 和 Intel 版本的 Hyper-V 提供模块注入和 vmexit 挂钩的项目
+- [vt-ReloadDbg](https://github.com/xyddnljydd/vt-ReloadDbg)：vt-ReloadDbg
+- [withdebugerce](https://github.com/3526779568/withdebugerce)：VT调试器插件搭配的CE
+
 
 # Windows内核驱动
 
