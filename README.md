@@ -19,7 +19,6 @@
 - [cpu-internals](https://github.com/LordNoteworthy/cpu-internals)：intel手册系统编程和VT虚拟化笔记
 - [Daat](https://github.com/9176324/Daat)：一个简单的VT框架
 - [DdiMon](https://github.com/tandasat/DdiMon)：使用 EPT 通过隐形钩子监视和控制内核 API 调用
-- [DriverCE](https://github.com/Oxygen1a1/DriverCE)：驱动CE
 - [ept-hook-detection](https://github.com/momo5502/ept-hook-detection)：检测 EPT hook 的不同方法
 - [FU_Hypervisor](https://github.com/tandasat/FU_Hypervisor)：使用 EPT 隐藏用户模式内存
 - [gbhv](https://github.com/Gbps/gbhv)：具有 EPT Hooking 的简单 x86-64 VT-x Hypervisor
