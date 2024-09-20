@@ -16,6 +16,7 @@
 - [airhv](https://github.com/Air14/airhv)：airhv 是一个基于 Intel VT-x 的简单虚拟机管理程序，主要专注于 ept hooking
 - [BaiyeDbg](https://github.com/76op/BaiyeDbg)：VT调试器
 - [Blackbone](https://github.com/DarthTon/Blackbone)：黑骨
+- [Cool-Hypervisor](https://github.com/Nou4r/Cool-Hypervisor)：英特尔虚拟机管理程序，实现多种虚拟化技术
 - [cpu-internals](https://github.com/LordNoteworthy/cpu-internals)：intel手册系统编程和VT虚拟化笔记
 - [Daat](https://github.com/9176324/Daat)：一个简单的VT框架
 - [DdiMon](https://github.com/tandasat/DdiMon)：使用 EPT 通过隐形钩子监视和控制内核 API 调用
