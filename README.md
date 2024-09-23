@@ -24,6 +24,7 @@
 - [FU_Hypervisor](https://github.com/tandasat/FU_Hypervisor)：使用 EPT 隐藏用户模式内存
 - [gbhv](https://github.com/Gbps/gbhv)：具有 EPT Hooking 的简单 x86-64 VT-x Hypervisor
 - [gh-anti-debugging-bypass](https://github.com/Ricardonacif/gh-anti-debugging-bypass)：反调试检测
+- [GuardMon](https://github.com/tandasat/GuardMon)：监视系统寄存器访问
 - [huoji_debuger](https://github.com/huoji120/huoji_debuger)：调试器
 - [hv](https://github.com/jonomango/hv)：轻量级英特尔 VT-x 虚拟机管理程序
 - [hvpp](https://github.com/wbenny/hvpp)：轻量级 Intel x64/VT-x 虚拟机管理程序
