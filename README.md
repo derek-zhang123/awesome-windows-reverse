@@ -34,6 +34,7 @@
 - [Kernel-Anit-Anit-Debug-Plugins](https://github.com/DragonQuestHero/Kernel-Anit-Anit-Debug-Plugins)：内核反反调试插件
 - [Kernel-Bridge](https://github.com/HoShiMin/Kernel-Bridge)：Windows内核驱动模板、开发框架和 内核模式 API 和包装器
 - [kHypervisor](https://github.com/KelvinMsft/kHypervisor)：VMX嵌套虚拟化
+- [kHypervisorBasic](https://github.com/TimelifeCzy/kHypervisorBasic)：基于kHypervisor框架添加了Msr/Ept Hook
 - [ksm](https://github.com/asamy/ksm)：VMX嵌套虚拟化
 - [NoirVisor](https://github.com/Zero-Tang/NoirVisor)：支持Intel VT-x的Intel处理器或支持AMD-V的AMD处理器的嵌套虚拟化
 - [learn-kvm](https://github.com/yifengyou/learn-kvm)：QEMU KVM 
