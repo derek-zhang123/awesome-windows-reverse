@@ -1,14 +1,5 @@
-# 长期收集Windwos逆向相关资源
-长期收集Windows逆向相关资源，包括Windwos内核，VT调试器，逆向工具插件和博客文章书籍等。
-学习交流QQ群：495694319
-
-# 目录
-
-- [VT调试器](#VT调试器)
-- [Windows内核驱动](#Windows内核驱动)
-- [博客文章](#博客文章)
-    - [调试](#调试)
-    - [反调试](#反调试)
+# 收集VT调试器项目
+收集VT调试器相关项目和博客，学习交流QQ群：495694319
 
 # VT调试器
 - [al-khaser](https://github.com/LordNoteworthy/al-khaser)：反检测调试
@@ -50,13 +41,4 @@
 - [withdebugerce](https://github.com/3526779568/withdebugerce)：VT调试器插件搭配的CE
 
 
-# Windows内核驱动
-
-# DLL注入和Shellcode
-
-# Tools和插件
-
-# 博客文章
-## 调试
-## 反调试
 
